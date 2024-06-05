@@ -1,0 +1,23 @@
+Please complete the following task individually:
+
+1. Create a database called as "Library" using SQL queries executed through MySQL workbench.
+
+2. Create a table in this dataset called as "Books" using the same MySQL workbench, include following columns in this table:
+
+  a. bookID
+  b. bookName
+  c. USN
+  d. Author
+  e. price
+
+3. Insert at least 5 records in this table through SQL queries using MySQL workbench.
+
+4. Write a python program that fetches all these data from this table directly through python program itself. Show the output on IDLE.
+
+5. Write another python program that updates a record in this table directly through python program. Show the output on IDLE.
+
+6. Write another python program that deleted a record in this table directly through python program. Show the output on IDLE.
+
+(You can also use one python program and execute these all tasks.)
+
+Thanks. 

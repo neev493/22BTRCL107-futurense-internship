@@ -1,0 +1,18 @@
+Please complete the following task, individually:
+
+Step 1: Download the available dataset from this link:
+https://www.w3schools.com/python/pandas/data.csv
+
+Step 2: Upload this dataset in Google Colab.
+
+Step 3: Perform ETL operations on this dataset. While transforming, include at least one condition to handle each of the following:
+
+a - Duplicate Values
+b - Missing Values
+c - Wrong values
+
+Step 4: Rename the columns as per your understanding.
+
+Step 5: Load this dataset into another .CSV file.
+
+Thanks.

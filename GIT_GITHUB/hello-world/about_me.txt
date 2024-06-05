@@ -1,0 +1,13 @@
+Hello!
+I am Neev Shah from AIML department and an intern at Futurense Technologies
+During this internship, I will work on Python programming, exploring its libraries, and learn new ways to visualise data.
+Also, I will be learning about data visualization and the importance of presenting data in a visual format. By exploring libraries such as Matplotlib, Seaborn, and Plotly, I will gain practical experience in creating data visualisation charts.
+I am truly excited to be the part of this internship, where I will apply my knowledge and learn new skills, exploring new challenges and opportunities.
+There will be many hurdles which with thorough guidance and mentorship i will overcome and upskill myself
+
+GOALS:
+My goal is be a specialised ML engineer using AI at its core.
+Current goal is to work around with the data and the different methods to use and conclude data.
+Final goal is to learn and simultaneously experience the corporate collaborative approach.
+
+Thank You!!
